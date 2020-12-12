@@ -2,9 +2,9 @@
   "name": "name-normalizer",
   "version": "0.1.0",
   "devDependencies": {
-    "@babel/preset-env": "^7.4.5",
-    "babel-jest": "^24.8.0",
-    "jest": "^24.8.0"
+    "@babel/preset-env": "^7.12.10",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
   },
   "scripts": {
     "test": "jest"
